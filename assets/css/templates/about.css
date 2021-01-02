@@ -1,0 +1,38 @@
+body {
+    background: black;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 50px;
+}
+    
+
+.button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: white;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+ 
+.layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 3rem;
+}
+
+@media screen and (min-width: 45rem) {
+  .layout {
+    grid-template-columns: 1fr 2fr;
+  }
+}
+
+.layout aside section {
+  margin-bottom: 3rem;
+}
+
+.layout aside h2 {
+  margin-bottom: .75rem;
+}

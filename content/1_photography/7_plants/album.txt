@@ -1,0 +1,19 @@
+Title: Plants
+
+----
+
+Cover:
+
+- nice-colors-ugly-plant.jpg
+
+----
+
+Headline: 
+
+----
+
+Description: They call me Dr.
+
+----
+
+Tags: plants
